@@ -1,20 +1,22 @@
 # The Amazing Mini-DRSSTC
-This is a fully deigned open source DRSSTC project. Every file (from the PCB CAD to MCAD) is available in this Repo/Submodules. There will eventually be a little guide on how to build them too, although you are gpoing to need some semi-advanced equipment and definetely should have good knowledge about electroncis in general. So sorry, but no beginner project :D
+This is a fully deigned open source DRSSTC project. Every file (PCB CAD, Gerbers, MCAD etc.) is available in this Repo/Submodules. There will eventually be a little guide on how to build one too, although you are going to need some semi-advanced equipment and definetely should have good knowledge about electroncis in general. So sorry, but no beginner project :D
 
 # what can it do?
 The finished coil will be about 0.5-0.6m tall (with a 30cm secondary), so probably only gonna make arcs <1m right? wrong! in my testing I've pushed that little thing to 20kw and got **over 1.5m long groundstrikes** out of it (not just streamers).
-Although the power input couldn't handle that much power permanently. So overall absolutely rock solid performance I'd say 8)
+Although the power input couldn't handle that much power permanently. So overall absolutely rock solid performance I'd say 😎
 
 Here's some media:
 
 The coil running at a low power level:
-![image](todo)
 
-The coil going crazy tripping my breaker in a few seconds (video link):
-[![youtube link](https://img.youtube.com/shorts/LmHMwYoh9tM/0.jpg)](https://www.youtube.com/shorts/LmHMwYoh9tM)
+<img src="https://github.com/TMaxElectronics/Mini-Coil/blob/master/minicoil.jpg?raw=true" width="480">
+
+The coil going crazy tripping my breaker in a few seconds [youtube link](https://www.youtube.com/shorts/LmHMwYoh9tM)
+
+The coil playing some music at low power but with 1ms maximum ontime (super deep base 😎) [youtube link](https://youtu.be/I3sHQFrxgT4?si=WCLulD-ejwFqxOLh&t=25)
 
 # Why the heck are you releasing this? Just sell it and make it worth your time
-Well I thought about it buuuut try telling your insurance agency that you're selling literal lightning machines to random people on the internet, not gonna work out well (I've tried :P). I also do not have the energy to to support calls for this (that does to a point include questions regarding this repo right here too), and i don't feel as bad when releasing it without actually getting payed for it.
+Well I thought about it buuuut try telling your insurance agency that you're selling literal lightning machines to random people on the internet, not gonna work out well (I've tried :P). I also do not have the energy to provide support for this (that does to a point include questions regarding this repo right here too), and i don't feel as bad when releasing it without actually getting payed for it.
 In the end I am already happy to see other people building something I designed :) So if you want to make me happy, post about your build on social media or send me an email about it ;)
 If you really want to support me then I'll might just eventually add my paypal.me here so you can buy me a coffe too.
 
