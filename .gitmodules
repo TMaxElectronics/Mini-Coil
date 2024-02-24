@@ -1,0 +1,9 @@
+[submodule "Mini-Coil---Signal-Board"]
+	path = Mini-Coil---Signal-Board
+	url = https://github.com/TMaxElectronics/Mini-Coil---Signal-Board
+[submodule "Mini-Coil---Power-Board"]
+	path = Mini-Coil---Power-Board
+	url = https://github.com/TMaxElectronics/Mini-Coil---Power-Board
+[submodule "Mini-Coil---Cap-Board"]
+	path = Mini-Coil---Cap-Board
+	url = https://github.com/TMaxElectronics/Mini-Coil---Cap-Board
